@@ -169,8 +169,8 @@ $gregorian_date = date('d M Y');
         <span class="title">تماس با ما</span>
         <div class="mega-dropdown">
             <a class="mega-leaf" href="<?php echo $url_contact; ?>">صفحه تماس کامل</a>
-            <a class="mega-leaf" href="tel:09195512979">0919 551 2979</a>
-            <a class="mega-leaf" href="tel:09197288439">0919 728 8439</a>
+            <a class="mega-leaf" href="tel:+989195512979">0919 551 2979</a>
+            <a class="mega-leaf" href="https://wa.me/989195512979?text=%D8%B3%D9%84%D8%A7%D9%85%D8%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%20%DA%A9%D8%A7%D8%A8%DB%8C%D9%86%D8%AA%20%D9%88%20%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86%20%D8%AF%DA%A9%D9%88%D8%AA%DA%A9%20%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87%20%D9%85%DB%8C%E2%80%8C%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%85." target="_blank" rel="noopener noreferrer">مشاوره فوری واتساپ</a>
         </div>
     </div>
 
